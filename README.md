@@ -1,4 +1,4 @@
-## Mitchell
+### Mitchell
 ___
 Hi I'm Mitchell, I'm 23 years old and I'm from Peru.
 I am currently studying Computer Science and I have studied Data Science at Platzi.
