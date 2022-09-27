@@ -11,7 +11,7 @@ ___
 
 | Programming languages| Databases  | Web technologies|Development tools| Cloud services|
 | ------------ | ------------ | ------------ | ------------|------------|
-|Python, JavaScript, Julia, Rust | MySQL, PostgreSQL |HTML, CSS, React|Git, Docker, VS Code|GCP, Heroku|
+|Python, JavaScript, Julia, Rust | MySQL, PostgreSQL, MongoDB |HTML, CSS, React|Git, Docker, VS Code|GCP, Heroku|
 
 ### Projects
 ___
