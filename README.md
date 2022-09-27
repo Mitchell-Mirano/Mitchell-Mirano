@@ -9,9 +9,9 @@ I love Python, but it may not be so good for some tasks or in any case it needs 
 ### Skills
 ___
 
-| Programming languages| Databases  | Web technologies|Development tools|
-| ------------ | ------------ | ------------ | ------------|
-|Python, JavaScript, Julia, Rust | MySQL, PostgreSQL |HTML, CSS, React|Git, Docker, VS Code|
+| Programming languages| Databases  | Web technologies|Development tools| Cloud services|
+| ------------ | ------------ | ------------ | ------------|------------|
+|Python, JavaScript, Julia, Rust | MySQL, PostgreSQL |HTML, CSS, React|Git, Docker, VS Code|GCP, Heroku|
 
 ### Projects
 ___
