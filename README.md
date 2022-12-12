@@ -19,7 +19,7 @@ ___
 - [Allison](https://github.com/Mitchell-Mirano/Allison)
 - [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
 - [Random Dogs](https://rd-app-dot-random-dogs-357321.ue.r.appspot.com/)
-- [Numerical Methods](https://mitchell-mirano.github.io/NumericalMethods.jl/stable/)
+- [Qaylla.jl](https://mitchell-mirano.github.io/Qaylla.jl/stable/)
 
 
 
