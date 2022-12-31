@@ -18,9 +18,9 @@ const mySkills = {
       backEnd:  ["FastAPI", "Flask","Django"],
       databases: ["MongoDB", "MySQL", "PostgreSQL"],
       development: ["VS Code","Docker"],
-      design: ["Figma"]
+      design: ["Figma"],
       cloud: ["GCP","Heroku"]
-   } 
+   }, 
 
    data_science: {
     data_manipulation: ["Pandas","Numpy","NetworkX"],
@@ -45,12 +45,12 @@ ___
 
 ___ 
 
-<h2 align="center">Programing Languages</h2>
+<h3 align="center">Programing Languages</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchell-Mirano&langs_count=10&theme=tokyonight&layout=compact" alt="Mitchell-Mirano :: Top Langs" /></p>
 
 
-<h2 align="center">Profile stats</h2>
+<h3 align="center">Profile stats</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mitchell-Mirano&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" /></p>
 
