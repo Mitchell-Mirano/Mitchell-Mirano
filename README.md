@@ -1,10 +1,7 @@
 ### Mitchell
 ___
-Hi I'm Mitchell.
-
 I love Python, but it may not be so good for some tasks or in any case it needs other technologies to be useful. That's why I'm always willing to learn new technologies.
  
-
 ### Skills
 ___ 
 
