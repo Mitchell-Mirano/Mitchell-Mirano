@@ -12,7 +12,7 @@ ___
 
 ```javascript
 const mySkills = {
-   code: ["Python", "JavaScript","Julia","Rust"],
+   code: ["Python", "JavaScript","Julia","C++","Rust"],
    technologies: {
       frontEnd: ["React","HTML","CSS"],
       backEnd:  ["FastAPI", "Flask","Django"],
