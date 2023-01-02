@@ -12,7 +12,7 @@ const mySkills = {
       frontEnd: ["React","HTML","CSS"],
       backEnd:  ["FastAPI", "Flask","Django"],
       databases: ["MongoDB", "MySQL", "PostgreSQL"],
-      development: ["VS Code","Docker"],
+      development: ["VS Code","Docker","Git"],
       design: ["Figma"],
       cloud: ["GCP","Heroku"]
    }, 
