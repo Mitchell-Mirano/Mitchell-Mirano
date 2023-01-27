@@ -30,11 +30,10 @@ const mySkills = {
 
 ### Projects
 ___
- 
-- [Allison](https://github.com/Mitchell-Mirano/Allison)
-- [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
 - [Random Dogs](https://random-dogs.app/)
 - [Qaylla.jl](https://mitchell-mirano.github.io/Qaylla.jl/stable/)
+- [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
+- [Allison](https://github.com/Mitchell-Mirano/Allison)
 
 ### Stats
 
