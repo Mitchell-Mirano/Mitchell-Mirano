@@ -1,4 +1,4 @@
-### Mitchell
+### Mitchell Mirano
 ___
 I love Python, but it may not be so good for some tasks or in any case it needs other technologies to be useful. That's why I'm always willing to learn new technologies.
  
@@ -27,24 +27,29 @@ const mySkills = {
 };
 ```
 
-
 ### Projects
 ___
-- [Random Dogs](https://random-dogs.app/)
+- [Random Dogs](https://random-dogs.app/) 
+A web app developed with **React** and **FastAPI**.
 - [Qaylla.jl](https://mitchell-mirano.github.io/Qaylla.jl/stable/)
+The main methods of numerical analysis with **Julia**.
 - [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
+A video game developed with **Python** and **Pygame**.
 - [Allison](https://github.com/Mitchell-Mirano/Allison)
+The main Machine Learning models implemented with **Python** and **NumPy**.
 
 ### Stats
-
-___ 
+___
 
 <h3 align="center">Programing Languages</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchell-Mirano&langs_count=10&theme=tokyonight&layout=compact" alt="Mitchell-Mirano :: Top Langs" /></p>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchell-Mirano&langs_count=10&theme=tokyonight&layout=compact" alt="Mitchell-Mirano :: Top Langs" />
+</p>
 
 <h3 align="center">Profile stats</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mitchell-Mirano&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mitchell-Mirano&show_icons=true&theme=tokyonight" alt="Mitchell Mirano :: Profile Stats" />
+</p>
 
