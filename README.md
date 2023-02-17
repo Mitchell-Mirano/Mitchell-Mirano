@@ -19,7 +19,7 @@ const mySkills = {
 
    data_science: {
     data_manipulation: ["Pandas","Numpy","NetworkX"],
-    data_vizualization: ["Matplotlib","Seaborn","Google Data Studio", "Tableau","PowerBI"],
+    data_visualization: ["Matplotlib","Seaborn","Google Data Studio", "Tableau","PowerBI"],
     machine_learning: ["Scikit-Learn"],
     nlp: ["NLTK","SpaCy"],
     deep_learning: ["TensorFlow"]
@@ -31,6 +31,8 @@ const mySkills = {
 ___
 - [Random Dogs](https://random-dogs.app/) 
 A web app developed with **React** and **FastAPI**.
+- [Kamaqi](https://pypi.org/project/kamaqi/)
+A command line app for creating Backends with **FastAPI**.
 - [Qaylla.jl](https://mitchell-mirano.github.io/Qaylla.jl/stable/)
 The main methods of numerical analysis with **Julia**.
 - [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
