@@ -7,7 +7,7 @@ ___
 
 ```javascript
 const mySkills = {
-   code: ["Python", "JavaScript","Julia","C++","Rust"],
+   programing_languages: ["Python", "JavaScript","Julia","R","C++","Rust"],
    technologies: {
       frontEnd: ["React","HTML","CSS"],
       backEnd:  ["FastAPI", "Flask","Django"],
@@ -18,7 +18,7 @@ const mySkills = {
    }, 
 
    data_science: {
-    data_manipulation: ["Pandas","Numpy","NetworkX"],
+    data_manipulation: ["Pandas","Numpy","NetworkX","Spark", "Airflow"],
     data_visualization: ["Matplotlib","Seaborn","Google Data Studio", "Tableau","PowerBI"],
     machine_learning: ["Scikit-Learn"],
     nlp: ["NLTK","SpaCy"],
