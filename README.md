@@ -29,8 +29,6 @@ const mySkills = {
 
 ### Projects
 ___
-- [Random Dogs](https://random-dogs.app/) 
-A web app developed with **React** and **FastAPI**.
 - [Kamaqi](https://pypi.org/project/kamaqi/)
 A command line app for creating Backends with **FastAPI**.
 - [Qaylla.jl](https://mitchell-mirano.github.io/Qaylla.jl/stable/)
