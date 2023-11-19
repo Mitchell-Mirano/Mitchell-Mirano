@@ -21,7 +21,7 @@ const mySkills = {
     data_visualization: ["Matplotlib","Seaborn","Google Data Studio", "Tableau","PowerBI"],
     machine_learning: ["Scikit-Learn"],
     nlp: ["NLTK","SpaCy"],
-    deep_learning: ["TensorFlow"]
+    deep_learning: ["Pytorch","TensorFlow"]
    }
 };
 ```
