@@ -28,15 +28,14 @@ const mySkills = {
 
 ### Projects
 ___
+- [Allison](https://github.com/Mitchell-Mirano/Allison)
+The main Machine Learning models implemented with **Python** and **NumPy**.
+- [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
+A video game developed with **Python** and **Pygame**.
 - [Kamaqi](https://pypi.org/project/kamaqi/)
 A command line app for creating Backends with **FastAPI**.
 - [Qaylla.jl](https://mitchell-mirano.github.io/Qaylla.jl/stable/)
 The main methods of numerical analysis with **Julia**.
-- [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
-A video game developed with **Python** and **Pygame**.
-- [Allison](https://github.com/Mitchell-Mirano/Allison)
-The main Machine Learning models implemented with **Python** and **NumPy**.
-
 ### Stats
 ___
 
