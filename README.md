@@ -23,7 +23,7 @@ const mySkills = {
     nlp: ["LLMs","NLTK","SpaCy"],
     deep_learning: ["Pytorch","TensorFlow"]
    },
-maths: ["Vectorial calculus", "Linear Algebra","Optimization", "Probabilities"]
+   maths: ["Vectorial calculus", "Linear Algebra","Optimization", "Probabilities"]
 };
 ```
 
