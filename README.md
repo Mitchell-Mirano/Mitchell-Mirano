@@ -6,21 +6,21 @@ ___
 
 ```javascript
 const mySkills = {
-   programing_languages: ["Python", "JavaScript","Julia","R","C++","Rust"],
+   programing_languages: ["Python", "Julia","Rust","R","JavaScript","C++"],
    technologies: {
       frontEnd: ["React","HTML","CSS"],
       backEnd:  ["FastAPI", "Flask","Django"],
-      databases: ["MongoDB", "MySQL", "PostgreSQL"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL","SQLserver"],
       development: ["VS Code","Docker","Git","Linux"],
       design: ["Figma"],
-      cloud: ["GCP","Heroku"]
+      cloud: ["GCP","AWS"]
    }, 
 
    data_science: {
-    data_manipulation: ["Pandas","Numpy","NetworkX","Spark", "Airflow"],
+    data_manipulation: ["SQL","Pandas","Numpy","NetworkX","Spark", "Airflow"],
     data_visualization: ["Matplotlib","Seaborn","Google Data Studio", "Tableau","PowerBI"],
     machine_learning: ["Scikit-Learn"],
-    nlp: ["NLTK","SpaCy"],
+    nlp: ["LLMs","NLTK","SpaCy"],
     deep_learning: ["Pytorch","TensorFlow"]
    }
 };
