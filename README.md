@@ -22,7 +22,8 @@ const mySkills = {
     machine_learning: ["Scikit-Learn"],
     nlp: ["LLMs","NLTK","SpaCy"],
     deep_learning: ["Pytorch","TensorFlow"]
-   }
+   },
+maths: ["Vectorial calculus", "Linear Algebra","Optimization", "Probabilities"]
 };
 ```
 
