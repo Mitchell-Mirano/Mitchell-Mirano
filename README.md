@@ -29,6 +29,7 @@ const mySkills = {
 
 ### Projects
 ___
+- [Kate](https://kate-app-304047016443.us-central1.run.app/) A virtual assistant built with FastAPI, Vue.js, and LLM models.
 - [Allison](https://github.com/Mitchell-Mirano/Allison)
 The main Machine Learning models implemented with **Python** and **NumPy**.
 - [The Game of Life](https://github.com/Mitchell-Mirano/The-Life-Game)
